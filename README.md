@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Asp.Net Core, React**
+- 🌱 I’m currently learning **Blockchain, Solidity**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **Asp.Net Core and React**
+- 💬 Ask me about **MERN and Solidity**
 
 - 📫 How to reach me **shahriarshourov.cse@gmail.com**
 
