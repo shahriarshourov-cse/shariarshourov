@@ -1,7 +1,7 @@
 
 ![Software Developer](https://media-exp1.licdn.com/dms/image/C5616AQGe4iyzQPM1qA/profile-displaybackgroundimage-shrink_200_800/0/1614713430373?e=1635984000&v=beta&t=mjqqaSe2b-UxUWwBQVkae9GJCr1mF2YndFn3EftOjM0)
 <h1 align="center">Hello 👋, I'm Shahriar Shourov</h1>
-<h3 align="center">A passionate Full-Stack Asp.Net Core developer,Wordpress & Shopify Expert</h3>
+<h3 align="center">A passionate Full-Stack Javascript Developer, Solidity Expert</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriarshourov" alt="shahriarshourov" /></a> </p>
 
